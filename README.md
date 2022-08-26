@@ -24,6 +24,12 @@ A CLI tool to identify the hash type of a given hash.
 - CLI tool & library
 - Hackable
 
+## Install
+
+```shell
+gem install haiti-hash
+```
+
 ## References
 
 Homepage / Documentation: https://orange-cyberdefense.github.io/haiti/
